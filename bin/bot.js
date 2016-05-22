@@ -2,7 +2,7 @@
 
 var CookieBot = require('../lib/cookiebot');
 
-var token = 'xoxb-44795358374-nyp4eOSMDBs0JU5AlWi4ymKs';
+var token = 'xoxb-44811928964-RvbEPZw0nduq6WEpow1YWl5R';
 //var dbPath = process.env.BOT_DB_PATH;
 var name = 'cookiebot';
 
